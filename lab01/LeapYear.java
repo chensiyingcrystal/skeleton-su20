@@ -1,6 +1,6 @@
 /**
  * Class that determines whether or not a year is a leap year.
- * @author Crystal Chen
+ * @author Crystal Chen Hello!
  */
 public class LeapYear {
 
